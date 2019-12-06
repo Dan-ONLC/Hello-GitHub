@@ -5,6 +5,9 @@ Hello, this is my new repository.
 
 It will be used as a demonstration for classwork.
 
+
+Morey added this line.
+=======
 This is the 8 lines
 =======
 
